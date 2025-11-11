@@ -1,0 +1,22 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Data files
+data/*.csv
+data/*.json
+
+# Model weights and checkpoints
+*.pth
+*.pkl
+
+# Jupyter notebooks checkpoint
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# Logs and temp files
+*.log
+*.out
